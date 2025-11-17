@@ -1,0 +1,21 @@
+====================================================
+CIFAR-10 Image Classification Training History
+====================================================
+
+This file tracks all training runs and their results.
+The best model is saved as cifar10_4x_best.pth
+
+Format:
+--------
+Training Run #X
+Date: YYYY-MM-DD HH:MM:SS
+Validation Accuracy: XX.XX%
+Hyperparameters:
+  - num_epochs: XX
+  - learning_rate: X.XXX
+  - batch_size: XX
+  - optimizer: XXXXX
+  - other settings...
+Notes: Any additional comments
+----------------------------------------------------
+
